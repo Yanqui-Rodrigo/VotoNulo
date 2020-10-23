@@ -1,0 +1,9 @@
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\bin\Debug\Controlador.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\bin\Debug\Modelo.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\bin\Debug\Modelo.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\obj\Debug\Controlador.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Controlador\obj\Debug\Controlador.pdb

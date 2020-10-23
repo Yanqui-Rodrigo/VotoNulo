@@ -1,0 +1,13 @@
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\bin\Debug\Vista.exe.config
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\bin\Debug\Vista.exe
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\bin\Debug\Vista.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.exe
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\bin\Debug\Controlador.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\bin\Debug\Controlador.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Vista\obj\Debug\Vista.csproj.CopyComplete

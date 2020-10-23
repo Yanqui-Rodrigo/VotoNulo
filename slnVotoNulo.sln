@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{55C25BB6-E134-4CBF-940F-2592103DAD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{B849F66D-5358-44B8-8C5B-6B1C89CDF704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{11EBC68F-7A00-41FA-A3DC-89DBF38E3396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C25BB6-E134-4CBF-940F-2592103DAD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C25BB6-E134-4CBF-940F-2592103DAD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C25BB6-E134-4CBF-940F-2592103DAD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C25BB6-E134-4CBF-940F-2592103DAD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B849F66D-5358-44B8-8C5B-6B1C89CDF704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B849F66D-5358-44B8-8C5B-6B1C89CDF704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B849F66D-5358-44B8-8C5B-6B1C89CDF704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B849F66D-5358-44B8-8C5B-6B1C89CDF704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EBC68F-7A00-41FA-A3DC-89DBF38E3396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EBC68F-7A00-41FA-A3DC-89DBF38E3396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EBC68F-7A00-41FA-A3DC-89DBF38E3396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EBC68F-7A00-41FA-A3DC-89DBF38E3396}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C74D93-39AC-4DF6-9BA0-2DA50B081529}
+	EndGlobalSection
+EndGlobal
