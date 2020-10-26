@@ -1,0 +1,12 @@
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\bin\Debug\Modelo.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\obj\Debug\Modelo.dll
+C:\Users\Yanqui\Documents\CALIDAD DE SOFTWARE\VotoNulo\slnVotoNulo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\bin\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\obj\Debug\Modelo.dll
+C:\Users\Usuario\Desktop\VotoNulo-main\Modelo\obj\Debug\Modelo.pdb
